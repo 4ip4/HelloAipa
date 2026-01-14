@@ -1,0 +1,14 @@
+/Users/aipa/RiderProjects/HelloAipa/HelloAipa/bin/Debug/net10.0/HelloAipa
+/Users/aipa/RiderProjects/HelloAipa/HelloAipa/bin/Debug/net10.0/HelloAipa.deps.json
+/Users/aipa/RiderProjects/HelloAipa/HelloAipa/bin/Debug/net10.0/HelloAipa.runtimeconfig.json
+/Users/aipa/RiderProjects/HelloAipa/HelloAipa/bin/Debug/net10.0/HelloAipa.dll
+/Users/aipa/RiderProjects/HelloAipa/HelloAipa/bin/Debug/net10.0/HelloAipa.pdb
+/Users/aipa/RiderProjects/HelloAipa/HelloAipa/obj/Debug/net10.0/HelloAipa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aipa/RiderProjects/HelloAipa/HelloAipa/obj/Debug/net10.0/HelloAipa.AssemblyInfoInputs.cache
+/Users/aipa/RiderProjects/HelloAipa/HelloAipa/obj/Debug/net10.0/HelloAipa.AssemblyInfo.cs
+/Users/aipa/RiderProjects/HelloAipa/HelloAipa/obj/Debug/net10.0/HelloAipa.csproj.CoreCompileInputs.cache
+/Users/aipa/RiderProjects/HelloAipa/HelloAipa/obj/Debug/net10.0/HelloAipa.dll
+/Users/aipa/RiderProjects/HelloAipa/HelloAipa/obj/Debug/net10.0/refint/HelloAipa.dll
+/Users/aipa/RiderProjects/HelloAipa/HelloAipa/obj/Debug/net10.0/HelloAipa.pdb
+/Users/aipa/RiderProjects/HelloAipa/HelloAipa/obj/Debug/net10.0/HelloAipa.genruntimeconfig.cache
+/Users/aipa/RiderProjects/HelloAipa/HelloAipa/obj/Debug/net10.0/ref/HelloAipa.dll
